@@ -12,12 +12,12 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
    ```sh
    python3 -m venv env
    source env/bin/activate
-1. Git clone `https://github.com/jlanem/vaccine-data-pipeline.git` 
-1. cd to vaccine-data-pipeline directory and instal requirements
+2. Git clone `https://github.com/jlanem/vaccine-data-pipeline.git` 
+3. cd to vaccine-data-pipeline directory and instal requirements
 
     ```sh
     cd vaccine_data_pipeline
     pip install requirements.txt
- Run the Pipeline
+4. Run the Pipeline
     ```sh
     python3 vaccine_pipeline.py
