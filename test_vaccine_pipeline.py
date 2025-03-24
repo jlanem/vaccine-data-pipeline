@@ -53,7 +53,7 @@ class TestVaccinePipeline(unittest.TestCase):
         os.remove(filename)  # Cleanup
 
     def test_plot_vaccine_data(self):
-        """Test if plot_vaccine_data runs without errors"""
+        """Test if plot_vaccine_data runs without any errors"""
         test_data = [
             {"country": "USA", "vaccines_administered": 500000000},
             {"country": "UK", "vaccines_administered": 100000000},
