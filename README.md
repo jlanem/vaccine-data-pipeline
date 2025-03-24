@@ -22,5 +22,5 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
     ```sh
     python3 vaccine_pipeline.py
 5. Run unit tests
-   ``sh
+   ```sh
    python -m unittest test_vaccine_pipeline.py
