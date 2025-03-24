@@ -16,7 +16,7 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
 3. cd to vaccine-data-pipeline directory and instal requirements
 
     ```sh
-    cd vaccine_data_pipeline
+    cd vaccine-data-pipeline
     pip install -r requirements.txt
 4. Run the Pipeline
     ```sh
