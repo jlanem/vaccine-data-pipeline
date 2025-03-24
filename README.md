@@ -4,7 +4,7 @@
 This Test project for Assessment for Senior Python Backend Engineer by https://savannahtech.io/
 This project  is a Python-based data pipeline that fetches,
 processes, and visualizes global COVID-19 vaccine coverage data using the disease.sh API.
-
+```sh
 🔹 How It Works
 1️⃣ Fetches vaccine data from the API.
 2️⃣ Parses and processes the data.
@@ -19,7 +19,7 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
    python3 -m venv env
    source env/bin/activate
 1. Git clone `https://github.com/jlanem/vaccine-data-pipeline.git` 
-1. cd to vaccine-data-pipeline directory
+1. cd to vaccine-data-pipeline directory and instal requirements
 
     ```sh
     cd vaccine_data_pipeline
@@ -27,5 +27,3 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
  Run the Pipeline
     ```sh
     python3 vaccine_pipeline.py
-
-
