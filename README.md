@@ -12,6 +12,7 @@ processes, and visualizes global COVID-19 vaccine coverage data using the diseas
 4️⃣ Generates a bar chart (vaccine_coverage.png).
 5️⃣ Logs execution details for debugging.
 
+
 ### Development
 
 1. Create and start virtual environment
